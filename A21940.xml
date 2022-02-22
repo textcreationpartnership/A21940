@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Generall. Whereas it hath pleased the Queenes Maiestie for necessary defence of her Highnesse realme against forreine inuitation, to cause sundry troupes of horse and footemen to be leuied out of diuers adioyning counties,  ..., We Charles Earle of Notingham, Baron Haward of Effingham, ... doe by this our proclamation straightly charge and commaund  ...</title>
+            <title>Proclamations. 1599-08-22</title>
+            <author>Nottingham, Charles Howard, Earl of, ca. 1536-1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1599</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21940</idno>
+            <idno type="STC">STC 8269</idno>
+            <idno type="STC">ESTC S115548</idno>
+            <idno type="EEBO-CITATION">99850767</idno>
+            <idno type="PROQUEST">99850767</idno>
+            <idno type="VID">15993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15993)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:117)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Generall. Whereas it hath pleased the Queenes Maiestie for necessary defence of her Highnesse realme against forreine inuitation, to cause sundry troupes of horse and footemen to be leuied out of diuers adioyning counties,  ..., We Charles Earle of Notingham, Baron Haward of Effingham, ... doe by this our proclamation straightly charge and commaund  ...</title>
+                  <title>Proclamations. 1599-08-22</title>
+                  <author>Nottingham, Charles Howard, Earl of, ca. 1536-1624.</author>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1599]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Fixing prices of provisions for troops near London--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food prices --  England --  Early works to 1800.</term>
+               <term>Armies --  Commissariat --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="command">
+            <pb facs="tcp:15993:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the lord generall.</head>
+            <div type="body_of_command">
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas it hath pleaſed the Queenes Maieſtie for
+neceſſary defence of her High<g ref="char:EOLhyphen"/>neſſe Realme againſt forreine
+Inuaſtion, to cauſe ſundry Troupes of Horſe and Footemen to be leuied
+out of diuers adioyning Counties, and to be brought vp and lodged, for ſome
+time, in, and about the Citie of London: To the intent, that they being
+imployed in ſo neceſſary and important ſeruice of their Prince and
+Countrey, be not euill vſed in the prices of their victuals and forrage for
+Horſes: <hi>We Charles Earle of Notingham, Baron Haward of Effingham, Knight
+of the noble order of the Garter, Lord high Admirall of England, Ireland,
+Wales, &amp;c. And her Lieutenant and Captaine generall</hi> ouer all her
+ſubiects, which be or ſhalbe leuied in all Counties of the South parts of
+the Realme, and aſſembled into Armie, or Armies, aſwell to reſiſt the
+inuaſion of the Realme by forreine forces, as againſt all domeſticall
+Traytors and Rebellion: Doe by this our Proclamation ſtraightly charge and
+commaund, that all and euery perſon and perſons of whatſoeuer eſtate or
+degree hee or they bee, doe obſerue and keepe ſuch rates and prices for all
+kinde of Victuals, Horſe<g ref="char:EOLhyphen"/>meate, lodging, and other neceſſaries as from
+time to time ſhalbe rated and priſed by the Clerke of the Market of her
+Highneſſe moſt Honorable Houſhold, or his lawful Deputie or Deputies,
+and the Iurie before him or them, by vertue of his Office ſworne and charged.
+Which Rates and Priſes ſhall accordingly (during the time of the abode of
+the ſaid forces, in, and about London) be ſet vp and declared in euery
+Towne, Village, Pariſh and Hamlet, where the ſaid Captaines and Souldiers
+or any of them are to be placed within the Circuyte of twelue miles euery way
+diſtant from the Citie of London. And further our pleaſure and expreſſe
+commaunde<g ref="char:EOLhyphen"/>ment is, That all Iuſtices of Peace, and all other her
+highneſſe faithfull Officers reſiant within the ſayde Circuit, ſhall
+diligently within their ſeuerall authorities (vpon the iuſt complaint made
+for the breach or other abuſe of the ſame Aſſiſe) in the abſence of
+the ſaid Clerke of the Market imploy themſelues to ſee due puniſh<g ref="char:EOLhyphen"/>ment
+inflicted vpon the Offendors by impriſonment or otherwiſe, &amp;c. And
+alſo, that no maner Victualers or other perſon whatſoeuer, doe withhold,
+keepe backe, or hide any Graine or other Victuals, whereby the Mar<g ref="char:EOLhyphen"/>kets
+vſually heretofore ſerued within the ſaid Precinct of twelue miles, might
+be vnfurniſhed thereof, vpon payne of their moſt grieuous impriſonment,
+and further Fine to be made to her Maieſties vſe for their con<g ref="char:EOLhyphen"/>tempt in
+this behalfe. Giuen at Sommerſet houſe the two and twentieth day of
+Auguſt, in the one and fortieth yeere of her Maieſties reigne.</p>
+               <closer>
+                  <signed>Notingham.</signed>
+               </closer>
+            </div>
+            <div type="list_of_limitations_of_rates">
+               <head>A limitation of ſuch rates and prices of graine,
+victuals, horſemeat, lodgings, and <hi>other things, as by vertue of this
+Proclamation here aboue expreſſed, are to</hi> beſold and vttered,
+aſwell within all maner of liberties, as without.</head>
+               <list>
+                  <label>
+                     <seg rend="decorInit">F</seg>Irſt a quarter beſt wheat cleane and ſweete in
+the Market.</label>
+                  <item>xxx. s.</item>
+                  <label>And a quarter ſecond wheate in the Market.</label>
+                  <item>xvi. s. viii. d.</item>
+                  <label>Item a quarter beſt mault cleane and ſweet in the
+Market.</label>
+                  <item>xx. s.</item>
+                  <label>And a quarter ſecond mault in the Market.</label>
+                  <item>xviii. s.</item>
+                  <label>Item a quarter branes or peaſe in the Market.</label>
+                  <item>xiii. s: iiii. d.</item>
+                  <label>Item a quarter beſt otes in the Market.</label>
+                  <item>ix. s. iiii. d.</item>
+                  <label>Item a buſhell of the ſame otes within euery
+houſe.</label>
+                  <item>xviii. d.</item>
+                  <label>Item a buſhell beſt beanes or peaſe within euery
+houſe.</label>
+                  <item>ii. s.</item>
+                  <label>
+                     <pb facs="tcp:15993:2" rendition="simple:additions"/>Item a
+kilderkin of the beſt Ale or Beere at the Brewers with cariage.</label>
+                  <item>iiii. s.</item>
+                  <label>And a kilderkin ſingle Ale or Beere at the Brewers
+with cariage.</label>
+                  <item>ii. s.</item>
+                  <label>Item a full quarte of the beſt Ale or Beere within and
+without euery houſe.</label>
+                  <item>i. d.</item>
+                  <label>And a full quarte of ſingle Ale or Beere within and
+without euery houſe.</label>
+                  <item>ob.</item>
+                  <label>Item a pound of butter ſweete and new the beſt in
+the Market.</label>
+                  <item>iiii. d.</item>
+                  <label>And a pound of barrell or ſalt butter in ſhop or
+Market.</label>
+                  <item>iiii. d.</item>
+                  <label>Item a pound of good Eſſer cheeſe in the ſhop or
+in Market.</label>
+                  <item>i. d. ob.</item>
+                  <label>And a pound of good Suffolke cheeſe in ſhop or
+Market.</label>
+                  <item>ii. d.</item>
+                  <label>Item ſeuen egges the beſt in the Market.</label>
+                  <item>ii. d.</item>
+                  <label>And three of the ſame egges within euery
+houſe.</label>
+                  <item>i. d.</item>
+                  <label>Item a ſtone beſt beefe at the butchers weighing
+viii. pound.</label>
+                  <item>xiiii.</item>
+                  <label>And a ſtone ſecond beefe at the butchers.</label>
+                  <item>xii. d.</item>
+                  <label>Item a quarter beſt veale at the butchers.</label>
+                  <item>ii. s. iiii. d.</item>
+                  <label>And a quarter ſecond veale at the butchers.</label>
+                  <item>ii. s.</item>
+                  <label>Item a quarter beſt weather mutton at the
+butchers.</label>
+                  <item>ii. s.</item>
+                  <label>And a quarter ſecond mutton at the butchers.</label>
+                  <item>xx. d.</item>
+                  <label>Item a quarter beſt lambe in the Market.</label>
+                  <item>xii. d.</item>
+                  <label>And a quarter ſecond lambe in the Market.</label>
+                  <item>x. d.</item>
+                  <label>Item a fat pigge the beſt in the Market.</label>
+                  <item>xvi. d.</item>
+                  <label>And a leane or ſecond pigge in the Market.</label>
+                  <item>xii. d.</item>
+                  <label>Item a couple capons the beſt in the Market.</label>
+                  <item>xx. d.</item>
+                  <label>And a couple ſecond capons in the Market.</label>
+                  <item>xviii. d.</item>
+                  <label>Item a couple of chickens or rabbets the beſt in the
+Market.</label>
+                  <item>xii. d.</item>
+                  <label>And a couple ſecond chickens or rabbets in the
+Market.</label>
+                  <item>viii. d.</item>
+                  <label>Item a doſen pigions the beſt in the Market.</label>
+                  <item>ii. s.</item>
+                  <label>Item that euery ſouldier or other perſon being
+placed and appointed in the Bande within the circuite of xii. miles diſtant
+from the Citie of London, vnder the right honorable the Lord Generall, her
+Maieſties Lieutenant of the ſame band and armie, and receiuing her
+Maieſties pay by viii. d. the day, hauing to dinner or ſupper good wheaten
+bread and drinke, beefe, mutton or veale boyled, and pigge, beefe, mutton,
+veale or lambe roſted, or otherwiſe vpon the fiſh dayes, to haue good
+wheaten bread and good drinke, ſalt fiſh or ling, egges, butter, peaſe or
+beanes buttered, and ſo hauing compe<g ref="char:EOLhyphen"/>tent and ſufficient thereof for the
+ſuſtentation of their bodies, euery man to pay for his meale.</label>
+                  <item>iii. d. ob.</item>
+                  <label>Item a pound of Tallow Candels made of cotton.</label>
+                  <item>iiii. d.</item>
+                  <label>Item a pound of Tallow Candels made of wicke.</label>
+                  <item>iiii. d.</item>
+                  <label>Item euery halfepeny white loafe to weigh.</label>
+                  <item>v. z.</item>
+                  <label>Item euery peny white loafe to weigh.</label>
+                  <item>x. z.</item>
+                  <label>Item euery halfepeny wheaten loafe to weigh.</label>
+                  <item>vii. z. di.</item>
+                  <label>Item euery peny wheaten loafe to weigh.</label>
+                  <item>xv. z.</item>
+                  <label>Item euery peny houſhold loafe to weigh.</label>
+                  <item>xx. z.</item>
+                  <label>Item three horſeloaues at the bakers, euery one loafe
+weighing x. ounces Troie.</label>
+                  <item>i. d.</item>
+                  <label>And two of the ſame loaues within euery
+houſe</label>
+                  <item>i. d.</item>
+                  <label>Item euery C. weight of good ſweete hay weighing Cxii.
+li. <hi>auoir de poiz</hi> with cariage</label>
+                  <item>xii. d.</item>
+                  <label>Item euery bottle of bay weighing iii. li. <hi>auoir
+depoiz</hi>
+                  </label>
+                  <item> ob.</item>
+                  <label>Item a loade of good ſtrawe with cariage.</label>
+                  <item>v. s.</item>
+                  <label>Item hay and litter day and night for one horſe within
+euery Inne</label>
+                  <item>iii. d. ob.</item>
+                  <label>Item good graſſe for one horſe day and night and
+ſo depart.</label>
+                  <item>ii. d.</item>
+                  <label>And the like good graſſe for one horſe alone by
+the weeke.</label>
+                  <item>xii. d.</item>
+                  <label>Item if any horſe abide in any paſture ouer and
+aboue one day and one night, then the owner of the ſame horſe to pay for
+the ſame after the rate of the whole weeke, for ſo long as hee ſhall
+abide in the ſame paſture being as aforeſayd.</label>
+                  <item>xii. d.</item>
+                  <label>Item a hundred good faggots keeping the aſſiſe
+with cariage.</label>
+                  <item>iiii. s. viii. d.</item>
+                  <label>And three of the ſame faggots within euery
+houſe.</label>
+                  <item>ii. d.</item>
+               </list>
+               <p>Item that no Inholder or Victualer do vtter or put to ſale
+vnto any ſouldier or other her Maieſties ſubiects any Beere or Ale with
+ſtone pots, cuppes or cannes, or with any other vnlawfull meaſures vpon
+paine limited in the Proclamation aforeſayd.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of <hi>Chriſtopher
+Barker,</hi> Printer <hi>to the Queenes moſt excellent Maiestie.</hi>
+1599.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
